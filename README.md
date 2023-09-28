@@ -1,6 +1,6 @@
-# SHOP SEE - React eCommerce App
+# SHOPSEE - React eCommerce App
 
-Welcome to **SHOP SEE**, your go-to destination for online shopping! This React-based eCommerce application provides a seamless and enjoyable shopping experience, featuring a responsive design and reliable API integration. With SHOP SEE, users can effortlessly browse, update products, and quickly add items to their shopping cart. Additionally, it allows users to easily adjust item quantities in the cart.
+Welcome to **SHOPSEE**, your go-to destination for online shopping! This React-based eCommerce application provides a seamless and enjoyable shopping experience, featuring a responsive design and reliable API integration. With SHOPSEE, users can effortlessly browse, update products, and quickly add items to their shopping cart. Additionally, it allows users to easily adjust item quantities in the cart.
 
 ## Tech Stack
 
@@ -10,7 +10,7 @@ Welcome to **SHOP SEE**, your go-to destination for online shopping! This React-
 
 ## Key Features
 
-- **Responsive Design**: SHOP SEE is designed to provide a consistent and user-friendly experience across various devices and screen sizes.
+- **Responsive Design**: SHOPSEE is designed to provide a consistent and user-friendly experience across various devices and screen sizes.
 
 - **API Integration**: We have integrated reliable APIs to ensure that product information is always up-to-date, offering users the latest products and prices.
 
@@ -23,20 +23,25 @@ Welcome to **SHOP SEE**, your go-to destination for online shopping! This React-
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/shop-see.git
+   git clone https://github.com/thor8126/shopsee
 
    ```
 
-1. **Install Dependencies:**:
+2. **Install Dependencies:**:
 
     cd shop-see
     npm install
 
-1. **Start the Development Server**:
+3. **Start the Development Server**:
 
     npm start
 
 
+## Hosted Url- 
+
+   ```
+   https://shopsee.vercel.app/
+   ```
 
 
-##Happy Shopping with SHOP SEE! 🛒
+##Happy Shopping with SHOPSEE! 🛒
