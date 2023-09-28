@@ -29,10 +29,11 @@ Welcome to **SHOPSEE**, your go-to destination for online shopping! This React-b
 
 2. **Install Dependencies:**:
 
-    cd shop-see
+    cd shopsee
+   
     npm install
 
-3. **Start the Development Server**:
+4. **Start the Development Server**:
 
     npm start
 
